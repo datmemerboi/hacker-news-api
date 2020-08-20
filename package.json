@@ -1,0 +1,15 @@
+{
+  "name": "hacker-news-api",
+  "version": "1.0.0",
+  "description": "API for hacker news",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/index.js"
+  },
+  "author": "datmemerboi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
